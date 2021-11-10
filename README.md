@@ -1,7 +1,7 @@
 # MultiWorldJE
 A Typical Multiworld Datapack For Minecraft Java
 
-##Info
+## Info
 
 - This Datapack Adds MulipleDimensions (Just Like Nether, End, etc)
 - You Can Create As Many Worlds/Dimensions Using This Datapack
@@ -9,7 +9,7 @@ A Typical Multiworld Datapack For Minecraft Java
 `Though You Can Create Unlimited World/Dimension(s) This Will Increase Ram Usage Thereby Causing Lag Or Crashing The Game`
 
 
-##Installation 
+## Installation 
 
 - Go To Releases Tab
 - Select A Matching Version Of This Datapack
